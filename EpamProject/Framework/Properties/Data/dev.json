@@ -1,0 +1,6 @@
+{
+  "testdata.mailru.user.mail": "epamwebdrivertest2@mail.ru",
+  "testdata.mailru.user.password": "",
+  "testdata.gmail.user.mail": "epamwebdrivertest1@gmail.com",
+  "testdata.gmail.user.password": ""
+}

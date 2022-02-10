@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RunSettings>
+  <TestRunParameters>
+    <Parameter name="browser" value="Chrome" />
+    <Parameter name="environment" value="qa" />
+    <Parameter name="waitTime" value="15" />
+  </TestRunParameters>
+</RunSettings>
